@@ -15,7 +15,9 @@
  <hr>
  <p align="center">
 <a href="https://www.linkedin.com/in/burak-aydemir-5887aa215/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>     
-<a href="https://www.instagram.com/burak.aydemir00/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>                   
+<a href="https://www.instagram.com/burak.aydemir00/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="https://discord.com/users/467693560569921537"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit"></img></a>
+
  </p>                                                                                                                          
   
                                                                                                                            
