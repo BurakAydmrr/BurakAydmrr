@@ -9,6 +9,10 @@
 <a href="https://node.js.com"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img></a>
 <a href=https://getbootstrap.com"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
 <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
+ <hr> <br>
+   <h4>Contact</h4>                                                                                                                         
+<a href="https://www.linkedin.com/in/burak-aydemir-5887aa215/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>                                                                                                                           
+                                                                                                                           
 </br></p>
 
 <p align="center">
