@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Burak 👋</h1>
 
-
+<h3 align="center">Technologies I know</h3>
 <p align="center"><br>
 <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a> 
 <a href="https://www.w3.org/Style/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></a>
@@ -9,10 +9,13 @@
 <a href="https://node.js.com"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img></a>
 <a href=https://getbootstrap.com"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
 <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
- <h5 align="center">Contact</h5>                                                                                                                          
+<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white    "></img></a>                                                                                                                           
+                                                                                                                       
+ <h3 align="center">Contact</h3>                                                                                                                          
  <hr>
                                                                                                                            
-<a href="https://www.linkedin.com/in/burak-aydemir-5887aa215/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>                                                                                                                           
+<a href="https://www.linkedin.com/in/burak-aydemir-5887aa215/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>     
+<a href="https://www.instagram.com/burak.aydemir00/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>  
                                                                                                                            
 </br></p>
 
