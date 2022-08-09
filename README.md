@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Burak 👋<a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>   </h1>
+<h1 align="center">👋 Hi, I'm Burak 👋 &nbsp <a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>   </h1>
 
 <h3 align="center">Technologies I know</h3>
 <p align="center"><br>
