@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Burak 👋 &nbsp <a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>   </h1>
+<h1 align="center">👋 Hi, I'm Burak 👋 
 
 <h3 align="center">Technologies I know</h3>
 <p align="center"><br>
@@ -17,7 +17,9 @@
 <a href="https://www.linkedin.com/in/burak-aydemir-5887aa215/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>     
 <a href="https://www.instagram.com/burak.aydemir00/"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a href="https://discord.com/users/467693560569921537"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit"></img></a>
-
+<p align="center">
+<a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>
+</p>
  </p>                                                                                                                          
   
                                                                                                                            
