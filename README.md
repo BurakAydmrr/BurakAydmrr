@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Burak 👋 
-
+<h1 align="center"> Hi, I'm Burak Junior Software Developer
 <h3 align="center">Technologies I know</h3>
 <p align="center"><br>
 <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a> 
