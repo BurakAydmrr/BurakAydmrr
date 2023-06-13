@@ -8,7 +8,9 @@
 <a href="https://node.js.com"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img></a>
 <a href=https://getbootstrap.com"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
 <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
-<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white    "></img></a>                                                                                                                           
+<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white    "></img></a>                                                             
+
+<p> <b>I'm Burak Aydemir, I'm 18 years old and I'm currently dealing with web development. I love research, my future goals are to be an expert in other software areas like mobile.</b></p>
                                                                                                                        
  <h3 align="center">Contact</h3>                                                                                                                          
  <hr>
