@@ -12,7 +12,7 @@
 <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
                                                     
 
-<p> <b>I'm Burak Aydemir, I'm 18 years old and I'm currently dealing with web development. I love research, my future goals are to be an expert in other software areas like mobile.</b></p>
+<p> <b>I'm Burak Aydemir, I'm 19 years old and I'm currently dealing with web development. I love research, my future goals are to be an expert in other software areas like mobile.</b></p>
                                                                                                                        
  <h3 align="center">Contact</h3>                                                                                                                          
  <hr>
